@@ -41,6 +41,7 @@ This project also includes an interactive Power BI dashboard designed to transla
 
 Due to file size limitations, the Power BI file is available via external link:
 
-🔗 [Download Power BI Dashboard](https://drive.google.com/drive/folders/1IFcILIMFTVgNqjeyEY-93PEGOHWqO2qp?usp=drive_link))
+🔗 [Download Power BI Dashboard](https://drive.google.com/drive/folders/1IFcILIMFTVgNqjeyEY-93PEGOHWqO2qp?usp=drive_link)
+
 
 ---
