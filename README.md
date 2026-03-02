@@ -28,3 +28,19 @@ Perform exploratory data analysis (EDA) and data cleaning to uncover insights re
 
 ## 🚀 Outcome
 Structured analytical insights to support data-driven healthcare expansion strategies.
+
+## 📊 Power BI Dashboard
+
+This project also includes an interactive Power BI dashboard designed to translate analytical findings into strategic decision support.
+
+### Dashboard Focus
+- Comparative country-level performance
+- Mortality trends and health indicators
+- Strategic expansion opportunity mapping
+- Visual KPI monitoring
+
+Due to file size limitations, the Power BI file is available via external link:
+
+🔗 [Download Power BI Dashboard](https://drive.google.com/drive/folders/1IFcILIMFTVgNqjeyEY-93PEGOHWqO2qp?usp=drive_link))
+
+---
